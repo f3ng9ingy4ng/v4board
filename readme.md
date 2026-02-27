@@ -81,14 +81,14 @@
 
 ### 🔧 其他改进
 
-- **优惠券 API 增强**：CouponController 代码量提升 163%
+- **优惠券 API 增强**：CouponController
 - **用户控制器优化**：UserController 新增签到相关逻辑
 - **服务器信息扩展**：ServerController 返回更多信息
 - **认证服务增强**：AuthService 新增第三方登录支持
 - **命令行工具**：
   - 新增 `ClearCheckinCache` 清理签到缓存
   - 新增 `UpdateTelegramCommands` 更新机器人命令
-- **邮件提醒优化**：SendRemindMail 代码量提升 143%
+- **邮件提醒优化**：SendRemindMail
 
 ---
 
